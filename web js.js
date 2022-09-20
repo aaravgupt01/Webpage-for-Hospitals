@@ -1,0 +1,1 @@
+aert("Welcome to Life Hospital.com. You are viewing our offical webpage ");

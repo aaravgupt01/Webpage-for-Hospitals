@@ -1,0 +1,15 @@
+html, body {
+    height: 100%;
+    width: 100%;
+  }
+  .head{
+    text-align:center;
+    border: 5px solid turquoise; 
+    color:whitesmoke; 
+    background-color:black ;
+  }
+  .pages{ 
+    text-decoration: none;
+    border: 1cm green solid;
+    border-radius: 0cm;
+  }
